@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://yzual.com/",
   author: "Yzual",
   desc: "Yzual的个人博客",
-  title: "欢迎来到我的博客",
+  title: "Yzual",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
